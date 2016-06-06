@@ -1,0 +1,1 @@
+DELETE from asset_bank_card  WHERE  channel_source='MailCrawl' and  bank_code='SPABANK' AND  id like '%SMA%'
